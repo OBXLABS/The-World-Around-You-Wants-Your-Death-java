@@ -12,4 +12,4 @@
 
 Installation (Windows)
 ---
-1. Double-click dist/Death.jar
+1. Double-click jar/Death.jar
